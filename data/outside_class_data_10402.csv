@@ -1,0 +1,70 @@
+Student,Kid,Type,Location,Language
+student 22,y,hang,"Activities (sports, church)",1
+student 22,k,hang,"Activities (sports, church)",1
+student 22,s,hang,"Relative (cousin, sibling)",4
+student 22,b,hang,Neighbor (lives around you),
+student 22,y,hang,"Activities (sports, church)",4
+student 22,p,hang,"Activities (sports, church)",
+student 22,e,hang,Neighbor (lives around you),1
+student 22,g,hang,"Activities (sports, church)",4
+student 22,a,work,"Activities (sports, church)",4
+student 22,l,work,"Activities (sports, church)",4
+student 8,k,hang,"Internet (social media, video games)",1
+student 8,s,hang,"Internet (social media, video games)",1
+student 8,s,hang,"Internet (social media, video games)",1
+student 8,y,hang,"Internet (social media, video games)",1
+student 8,k,work,"Internet (social media, video games)",1
+student 8,s,work,"Internet (social media, video games)",1
+student 21,y,hang,"Internet (social media, video games)",3
+student 21,l,hang,Neighbor (lives around you),2
+student 21,j,hang,"Internet (social media, video games)",3
+student 21,g,hang,"Internet (social media, video games)",3
+student 21,j,hang,Neighbor (lives around you),4
+student 21,k,hang,School (not in class),4
+student 21,y,work,"Activities (sports, church)",3
+student 21,j,work,"Activities (sports, church)",3
+student 21,g,work,"Activities (sports, church)",3
+student 4,t,hang,Neighbor (lives around you),3
+student 4,s,hang,School (not in class),3
+student 4,s,work,Other,3
+student 4,y,work,"Relative (cousin, sibling)",3
+student 7,l,hang,"Relative (cousin, sibling)",3
+student 7,m,hang,"Relative (cousin, sibling)",3
+student 7,a,hang,"Relative (cousin, sibling)",3
+student 7,g,hang,School (not in class),1
+student 7,y,hang,School (not in class),1
+student 7,g,work,School (not in class),1
+student 7,y,work,School (not in class),1
+student 7,e,work,School (not in class),1
+student 7,s,work,School (not in class),1
+student 7,y,work,School (not in class),1
+student 7,k,work,School (not in class),1
+student 7,s,work,School (not in class),1
+student 5,v,hang,"Relative (cousin, sibling)",5
+student 5,j,hang,"Relative (cousin, sibling)",1
+student 5,j,hang,"Relative (cousin, sibling)",1
+student 5,d,hang,"Relative (cousin, sibling)",1
+student 5,l,hang,"Relative (cousin, sibling)",1
+student 3,y,hang,Neighbor (lives around you),3
+student 3,s,hang,"Activities (sports, church)",1
+student 3,a,hang,School (not in class),3
+student 3,y,hang,School (not in class),3
+student 3,g,hang,School (not in class),1
+student 13,z,hang,School (not in class),1
+student 13,l,work,"Relative (cousin, sibling)",1
+student 14,b,hang,School (not in class),1
+student 14,y,hang,School (not in class),3
+student 14,g,hang,School (not in class),3
+student 14,j,hang,School (not in class),1
+student 14,j,hang,School (not in class),1
+student 14,b,work,"Internet (social media, video games)",1
+student 14,y,work,Other,3
+student 14,s,work,"Internet (social media, video games)",1
+student 14,j,work,Other,1
+student 14,k,work,Other,1
+student 16,r,hang,"Activities (sports, church)",2
+student 16,a,hang,"Activities (sports, church)",2
+student 16,a,hang,"Relative (cousin, sibling)",3
+student 16,a,hang,"Relative (cousin, sibling)",3
+student 16,a,hang,"Relative (cousin, sibling)",3
+student 16,p,hang,"Relative (cousin, sibling)",3
