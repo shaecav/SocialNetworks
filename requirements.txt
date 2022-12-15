@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+requests
+numpy
+lottie
+networkx
+pyvis
+matplotlib
+Pillow
