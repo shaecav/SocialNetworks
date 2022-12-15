@@ -1,16 +1,10 @@
 import streamlit as st
-import streamlit.components.v1 as components
 import pandas as pd
 import requests
-from pyvis.network import Network
 import plotly.express as px
-import plotly.graph_objects as go
-import networkx as nx
-import matplotlib.pyplot as plt
 from streamlit_agraph import agraph, Node, Edge, Config
 from streamlit_lottie import st_lottie
 from PIL import Image
-from streamlit_plotly_events import plotly_events
 
 
 
