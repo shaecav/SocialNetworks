@@ -8,4 +8,4 @@ networkx
 pyvis
 matplotlib
 Pillow
-streamlit-agraph
+streamlit_agraph
