@@ -3,7 +3,7 @@ pandas
 plotly
 requests
 numpy
-lottie
+streamlit_lottie
 networkx
 pyvis
 matplotlib
